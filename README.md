@@ -3,10 +3,9 @@
 ## INSTALL
 #### cp ./addgitpush.bash /usr/local/bin/
 #### chmod 755 /usr/local/bin/addgitpush.bash
-#### debian/redhat/...
+### ---debian/redhat---
 #### chown root:root /usr/local/bin/addgitpush.bash
-#### macos
+### ---macos---
 #### chown root:wheel /usr/local/bin/addgitpush.bash
-
 ## IF THERE IS NO DIRECTORY IN $PATH
-### PATH=PTATH:/usr/local/bin/
+#### PATH=PTATH:/usr/local/bin/
