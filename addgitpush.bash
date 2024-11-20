@@ -10,5 +10,5 @@ elif [ $# -eq 0 ]; then
     exit 1
 else
     echo "You are not in the right directory or there is no branch $@"
-    exit 0
+    exit 1
 fi
